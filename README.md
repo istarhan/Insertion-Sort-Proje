@@ -1,3 +1,3 @@
-# Kodluyoruz Insertion-Sort Repo
+# Kodluyoruz Merge-Sort Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Veriyapıları ve Algoritmalar dersinde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Veriyapıları ve Algoritmalar dersinde oluşturduğumuz ikinci repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
